@@ -31,7 +31,6 @@ tachyon-multimessenger-search/
 ├── tachyon_search.py
 ├── figures/          # generated figures
 ├── data/             # optional exported CSV files
-└── paper/            # generated numbers.tex for the manuscript
 ```
 
 ## Requirements
@@ -76,7 +75,6 @@ Typical outputs include:
 
 - `figures/*.png` and `figures/*.pdf` — manuscript figures;
 - `results.json` — numerical results from the analysis;
-- `paper/numbers.tex` — LaTeX macros containing values used in the manuscript;
 - `data/*.csv` — optional exported simulation data when `--export` is used.
 
 ## Reproducibility
