@@ -1,6 +1,6 @@
 # Tachyon Multi-Messenger Search
 
-Reproducibility code for the manuscript:
+
 
 **A population-level matched-filter search for tachyonic arrival-time advances in gamma-ray bursts and their gravitational-wave counterparts**
 
